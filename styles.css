@@ -1,0 +1,185 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: "Cormorat Garamond";
+    background-color: #5F1189;
+}
+
+.title {
+    font-size: 30px;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.smart-cookie{
+    display: none;
+}
+
+.mapKey{
+    font-size: 19.5px;
+}
+
+.attention{
+    color: yellow;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+.southEvery {
+    font-size: 30px;
+    color: #fcb605;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+button {
+    height: 40px;
+    font-family: "Cormorant Garamond";
+    font-size: 20px;
+    color: #FEEEA7;
+    border: solid black 2px;
+    background: #17121F;
+}
+
+button:hover {
+    background-color: #5F1189;
+    color: #EFB002;
+    border: #EFB002 solid 2px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.theQuestion {
+    display: none;
+    font-size: 20px;
+    font-family: "Cormorant Garamond";
+}
+
+.rubie {
+    color: #ffa1c5;
+}
+
+.protag {
+    color: #a0c6e8;
+}
+
+img{
+    width: 700px;
+    height: auto;
+}
+
+.firstChoice {
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+}
+
+.onwards {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.whatEver {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.intoTheForest {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+a{
+   color: yellow; 
+}
+
+.deathWhoops {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.strangeShop {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.stupidTree {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.yayCandy {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.whatTheF {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.strangerNoDanger {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.waitWhat {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.trueEnding {
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
+
+.giftsForThee{
+    display: none;
+    background-color: #A80D7C;
+    padding: 8px;
+    border: double gold 10px;
+    font-family: "Cormorant Garamond";
+}
